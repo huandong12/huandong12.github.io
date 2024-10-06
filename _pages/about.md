@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate at the School of Mathematical Sciences, [Zhejiang university](http://www.math.zju.edu.cn/). My tutors are [Wei Wang](https://person.zju.edu.cn/en/wangw07#:~) and [Meng Wang](https://person.zju.edu.cn/0004263/571645.html). My research interests include the phase transition, Parabolic equations and Harmonic Heat flows.
+I am currently a Ph.D. candidate at the School of Mathematical Sciences, [Zhejiang university](http://www.math.zju.edu.cn/). My tutors are [Wei Wang](https://person.zju.edu.cn/en/wangw07#:~) and [Meng Wang](https://person.zju.edu.cn/0004263/571645.html). My research interests include  phase transitions, Parabolic equations and Harmonic Heat flows.
 
 Teaching
 ------
