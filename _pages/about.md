@@ -1,5 +1,12 @@
-About me
-------
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am currently a Ph.D. candidate at the School of Mathematical Sciences, [Zhejiang university](http://www.math.zju.edu.cn/). My toturs are WeiWang and Meng Wang. My research interests include the phase transition, Parabolic equations, and Harmonic Heat flows.
 
 
