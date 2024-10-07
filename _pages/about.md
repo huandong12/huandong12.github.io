@@ -11,9 +11,9 @@ I am currently a Ph.D. candidate at the School of Mathematical Sciences, [Zhejia
 
 Teaching
 ------
-Mathematical Analysis, Spring 2020, Meng Wang, 
-Real Variable Function, Fall 2021, Houyu Jia, 
-Analysis and Sobolev spaces, Summer school 2021, Huijun Fan,
+Mathematical Analysis, Spring 2020, Meng Wang, \r
+Real Variable Function, Fall 2021, Houyu Jia, \r
+Analysis and Sobolev spaces, Summer school 2021, Huijun Fan,\r
 Partial Differential Equations, Fall 2022, Wei Wang, 
 
 For more info
