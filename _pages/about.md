@@ -11,13 +11,13 @@ I am currently a Ph.D. candidate at the School of Mathematical Sciences, [Zhejia
 
 Teaching
 ------
-Mathematical Analysis, Spring 2020, Meng Wang, 
+Mathematical Analysis, Spring 2020, TA. Lecturer: Prof.Meng Wang.
 
-Real Variable Function, Fall 2021, Houyu Jia, 
+Real Variable Function, Fall 2021, TA. Lecturer: Prof.Houyu Jia.
 
-Analysis and Sobolev spaces, Summer school 2021, Huijun Fan,
+Analysis and Sobolev spaces, Summer school 2021, TA. Lecturer: Prof.Huijun Fan.
 
-Partial Differential Equations, Fall 2022, Wei Wang, 
+Partial Differential Equations, Fall 2022, TA. Lecturer: Prof.Wei Wang.
 
 For more info
 ------
