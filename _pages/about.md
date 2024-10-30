@@ -14,7 +14,7 @@ Publications
 
 Preprints
 ------
-  Huan Dong,Siqi Ren and Wei Wang,  Sharp interface limit of the isotropic-nematic two-phase flow for liquid crystals with anisotropic elasticity , preprint.
+  Huan Dong, Siqi Ren and Wei Wang,  Sharp interface limit of the isotropic-nematic two-phase flow for liquid crystals with anisotropic elasticity , preprint.
     
   Huan Dong and Wei Wang,  Sharp interface limit of a vector-valued Allen-Cahn dynamics,  preprint.
 
